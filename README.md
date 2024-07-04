@@ -493,3 +493,7 @@ nav {
 </body>
 </html>
 ```
+![image](https://github.com/sathiya7g/Dribbble-Clone/blob/main/Screenshot%202024-07-03%20231603.png)
+
+
+![image](https://github.com/sathiya7g/Dribbble-Clone/blob/main/Screenshot%202024-07-03%20231620.png)
